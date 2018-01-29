@@ -57,3 +57,5 @@ disqus:
   shortname:      psyc3450
 
 google_analytics:
+
+theme: jekyll-theme-cayman
