@@ -17,15 +17,6 @@ Instructor
 
 Labs and Lab Instructors
 
-| Section| Day | Time| Room| Instructor| email|
-|:--------|:-------:|:--------|:--------|:--------|:--------|
-|MTAB 17771| 	M | 2:15p-5:50p |	WJ3106 |Beliz Hazan	|belizhazanlab@gmail.com|
-|MTBB 17773| 	M | 2:15p-5:50p	|WJ4109|Nicholaus Brosowsky|nbrosowsky@gradcenter.cuny.edu|
-|MTCB 17775| 	W   | 12:25-4:00p| WJ3106| Taylan Ergun	|	taylansergun@gmail.com |
-|MTDB 17777| 	W  | 12:25p-4:00p|  WJ4109 |	Alexandra Gaynor|alexandra.gaynor@gmail.com|
-|MTEB 53895| 	F  | 9:05a-12:40p| WJ-3106  |Matthew Goldberg	|matt.goldberg100@gmail.com |
-|MTFB 53897| 	F  | 9:05a-12:40p|  WJ-4109 |	Beliz Hazan|belizhazanlab@gmail.com|
-
 |Instructor|Section|Day|Time|Room|email|
 |:--------|:-------:|:--------|:--------|:--------|:--------|
 |TBA|PSYC 3450W R9AB|     Tu |       09:05AM - 12:40PM |   WJ-3106|
