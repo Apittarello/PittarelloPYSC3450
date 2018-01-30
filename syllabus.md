@@ -7,14 +7,14 @@ sidebar_link: true
 Experimental Psychology (PSYC3450W) Sections: MTAL,BL,CL,DL,EL,FL
 
 Lectures 	
-- Monday	12:25PM-2:05PM 	RM: Ingersoll 1310
+- Thursday	9:05AM-10:45PAM 	RM: Ingersoll 1310
 
 Instructor
 
-- Dr. Matt Crump	4307B James Hall
+- Dr. Andrea Pittarello 5608 James Hall
 - Office hours:	by appointment
-- Office phone: 718-951-5000 x. 6068
-- mcrump@brooklyn.cuny.edu
+- Office phone: TBA
+- TBA
 
 Labs and Lab Instructors
 
@@ -60,32 +60,37 @@ Paul C. Price, Rajiv Jhangiani, I-Chant A. Chiang, Dana C. Leighton, & Matthew J
 
 |Lecture|	Date|	Topic|	Chapter|
 |:--|:--|:--|:--|
-|1|	28-Aug|	Course Overview|	1|
-||4-Sep	|NO CLASS Labor Day	||
-|2|	11-Sep|	Intro Psych Science|	2|
-|3|	18-Sep|	Measurement	|3|
-|4|	25-Sep|	Experimental research|	4|
-|5|	2-Oct |	Factorial Designs I|	5|
-|6|16-Oct	|Factorial Designs II|	5|
-|7|23-Oct	|Factorial Designs III|	5|
-|8|30-Oct	|Midterm|	|
-|9|6-Nov	|Theory and Phenomena|6|
-|10|13-Nov	|Research Ethics|7|
-|11|20-Nov	|Control Problems I|8|
-|12|27-Nov	|Control Problems II|8|
-|13|4-Dec	|Communicating Research|12|
-|13|11-Dec	|Open Science||
+|1|	1-Feb|	Course Overview|	1|
+|2|8-Feb	|Intro to Psych Science	|  2 & Lab Manual 2|
+|3|	15-Feb|	Measurement|	3|
+|4|	22-Feb|	Experimental research	|4|
+|5|	1-Mar|	Factorial Designs I|	5|
+|6|	8-Mar |	Factorial Designs II|	5|
+|7|15-Mar	|Factorial Designs III|	5|
+|8|22-Mar	|Midterm|	|
+|9|29-Mar	|Theory and Phenomena| 6|
+|10|12-Apr	|Research Ethics|7|
+|11|19-Apr	|Control Problems I|8|
+|12|26-Apr	|Control Problems II|8|
+|13|3-May	|Questionable Research Practices||
+|14|10-May	|Open Science||
 
 
 ### Important dates
 
 |Date| Event|
 |:--|:--|
-|Thursday, August 31|Last day to add a course|
-|Thursday, September 14| Last day to drop a course without a grade of "W"|
-|Friday, September 15 |Last day to apply for Fall 2017 Graduation|
-|Thursday, November 9| Last day to resolve Spring and Summer 2017 incomplete grade (INC)|
-|Friday, November 10| Last day to withdraw from a course with a W (non-penalty) grade|
+|Jan 27| First day of weekend classes|
+|Jan 29| First day of weekday classes|
+|Feb 12| College Closed – Lincoln’s Birthday|
+|Feb 19| College Closed – President’s Day|
+|Feb 20| Conversion Day – Classes follow a Monday schedule|
+|Mar 30 – Apr 8| Spring Recess|
+|Apr 11| Conversion Day – Classes follow a Friday schedule|
+|May 17| Reading Day|
+|May 19 -20|Final Examinations – Weekend Classes|
+|May 18-24|	Undergraduate Final Examinations; Final Class/Exams for Graduate Courses|
+
 
 ### Lab Schedule		
 
@@ -164,7 +169,7 @@ The course allows for some flexibility in determining your final grade. If you p
 
 
 
-The lecture portion will involve weekly assignments that are to be completed electronically on blackboard. Assignments are usually short quizzes (10-20 questions). “Assignments & Attendance” accounts for 20% of the final grade. The 20% is computed from the assignments, but can be decreased as a result of poor attendance. If a student is late or misses more than 3 classes, then each additional late/missed class will result in subtracting 1% from the 20% for Assignments and Attendance.
+The lecture portion might involve weekly assignments that are to be completed electronically on blackboard. Assignments are usually short quizzes (10-20 questions). “Assignments & Attendance” accounts for 20% of the final grade. The 20% is computed from the assignments, but can be decreased as a result of poor attendance. If a student is late or misses more than 3 classes, then each additional late/missed class will result in subtracting 1% from the 20% for Assignments and Attendance.
 
 Lecture attendance is taken every lecture at the very beginning of class. Latecomers who miss attendance will not be allowed to record their attendance, and will be recorded as absent.
 
