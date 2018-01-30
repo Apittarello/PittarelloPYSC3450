@@ -4,10 +4,9 @@ title: Syllabus
 sidebar_link: true
 ---
 
-Experimental Psychology (PSYC3450W) Sections: MTAL,BL,CL,DL,EL,FL
-
+Experimental Psychology (PSYC3450W) Sections: R9AB,R9BB,R9CB,R9DB
 Lectures 	
-- Thursday	9:05AM-10:45PAM 	RM: Ingersoll 1310
+- Thursday	9:05AM-10:45PAM 	RM: BH 3139
 
 Instructor
 
@@ -26,6 +25,13 @@ Labs and Lab Instructors
 |MTDB 17777| 	W  | 12:25p-4:00p|  WJ4109 |	Alexandra Gaynor|alexandra.gaynor@gmail.com|
 |MTEB 53895| 	F  | 9:05a-12:40p| WJ-3106  |Matthew Goldberg	|matt.goldberg100@gmail.com |
 |MTFB 53897| 	F  | 9:05a-12:40p|  WJ-4109 |	Beliz Hazan|belizhazanlab@gmail.com|
+
+|Instructor|Section|Day|Time|Room|email|
+|:--------|:-------:|:--------|:--------|:--------|:--------|
+|TBA|PSYC 3450W R9AB|     Tu |       09:05AM - 12:40PM |   WJ-3106|
+|Dana MURANO|PSYC 3450W R9BB|      Tu |       09:05AM - 12:40PM |   WJ-4109|dmurano@gradcenter.cuny.edu|
+|Beliz HAZAN |PSYC 3450W R9CB|   Fr|         09:05AM - 12:40PM |   WJ-3106|BHazan@brooklyn.cuny.edu|
+|Karen TEJEDA |PSYC 3450W R9DB|     Th |       12:50PM - 04:25PM |   WJ-3106|karen_tejeda@aol.com|
 
 
 Website:  [http://crumplab.github.io/courses/experimental](http://crumplab.github.io/courses/experimental)
